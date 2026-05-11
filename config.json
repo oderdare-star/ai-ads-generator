@@ -1,0 +1,5 @@
+{
+    "openrouter_api_key": "OUR_API_KEY_HERE",
+    "environment": "production",
+    "debug": false
+}
